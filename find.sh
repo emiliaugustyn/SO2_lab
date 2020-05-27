@@ -12,7 +12,3 @@ if [ ! -d "$1" ]; then
 fi
 
 find "$1" -type d -mtime +30 -empty -print
-
-# Wysyłaj i idę na odpoczywanko
-# idz jeszcze chwile poczekam zeby nie bylo podejrzane XD 
-# dziekuje za wspolprace 
